@@ -1,0 +1,14 @@
+
+*.db
+
+DataStructuresLabs/.vs/DataStructuresLabs/v16/
+
+DataStructuresLabs/.vs/
+
+*.sln
+
+*.tlog
+
+DataStructuresLabs/DataStructuresLabs/Debug/
+
+DataStructuresLabs/Debug/
