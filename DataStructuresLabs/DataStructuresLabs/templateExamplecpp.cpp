@@ -41,7 +41,7 @@ private:
 	T m_val;
 };
 
-int main() {
-	std::cout << smallest(3, 6) << std::endl;
-	std::cout << largest(TemplateClass<int>(2), TemplateClass<int>(5)).GetVal() << std::endl;
-}
+//int main() {
+//	std::cout << smallest(3, 6) << std::endl;
+//	std::cout << largest(TemplateClass<int>(2), TemplateClass<int>(5)).GetVal() << std::endl;
+//}
